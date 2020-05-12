@@ -1,0 +1,428 @@
+
+
+/*背景颜色*/
+.bg-main{
+	background: #ff2d52;
+}
+.bg-gray{
+	background: #F1f1f1;
+}
+.bg-grays{
+	background: #f7f7f7;
+}.bg-main-red{
+	background: #ec193e;
+}
+.bg-white{
+	background: white;
+}
+
+
+/*文字居中*/
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+
+/*字体大小*/
+.font-12{
+	font-size: 12px;
+}
+.font-14{
+	font-size: 14px;
+}
+.font-16{
+	font-size: 16px;
+}
+.font-18{
+	font-size: 18px;
+}
+.font-20{
+	font-size: 20px;
+}
+.font-22{
+	font-size: 22px;
+}
+.font-24{
+	font-size: 24px;
+}
+.font-30{
+	font-size: 30px;
+}
+.font-36{
+	font-size: 36px;
+}
+
+/*字体加粗*/
+.text-bolder{
+	font-weight: bolder;
+}
+
+/*字体颜色*/
+.text-main{
+	color: #E93854;
+}
+.text-white{
+	color: #ffffff;
+}
+.text-Gradual{
+	color: #ec193e;
+}
+.text-gray{
+	color: #f1f1f1;
+}
+.text-graylight{
+	color: #999;
+}
+.text-blackdark{
+	color: #aaa;
+}
+.text-black{
+	color: #000;
+}
+.text-grays{
+	color: #666666;
+}
+.text-orange{
+	color: #ff6600;
+}
+.text-hei{
+	color: #333333;
+}
+.text-Lightgray{
+	color: #CCCCCC;
+}
+/*行高 22 24 26 48*/
+
+.line-22{
+	line-height: 22px;
+}
+.line-24{
+	line-height: 24px;
+}
+.line-36{
+	line-height: 36px;
+}
+.line-48{
+	line-height: 48px;
+}
+
+/*浮动*/
+
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+
+.marging-top{
+	margin-top: -165px;
+}
+
+/*清除浮动  伪元素不占位 */
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+/*外边距 5 15 20 25 30*/
+
+.margin{
+	margin: auto auto;
+}
+
+
+.margin-5{
+	margin: 5px;
+}
+.margin-5-l{
+	margin: auto 5px;
+}
+.margin-5-left{
+	margin-left: 5px;
+}
+.margin-5-right{
+	margin-right: 5px;
+}
+.margin-5-top{
+	margin-top: 5px;
+}
+.margin-5-button{
+	margin-bottom: 5px;
+}
+/*10*/
+.margin-10{
+	margin: 10px;
+}
+.margin-10-left{
+	margin-left: 10px;
+}
+.margin-10-right{
+	margin-right: 10px;
+}
+.margin-10-top{
+	margin-top: 10px;
+}
+.margin-10-button{
+	margin-bottom: 10px;
+}
+.margin-10-l{
+	margin: 10px auto;
+}
+
+/*15*/
+.margin-15{
+	margin: 15px;
+}
+.margin-15-left{
+	margin-left: 15px;
+}
+.margin-15-right{
+	margin-right: 15px;
+}
+.margin-15-top{
+	margin-top: 15px;
+}
+.margin-15-button{
+	margin-bottom: 15px;
+}
+.margin-15-l{
+	margin: auto 15px ;
+}
+/*20*/
+.margin-20{
+	margin: 20px;
+}
+.margin-20-left{
+	margin-left: 20px;
+}
+.margin-20-right{
+	margin-right: 20px;
+}
+.margin-20-top{
+	margin-top: 20px;
+}
+.margin-20-button{
+	margin-bottom: 20px;
+}
+.margin-20-l{
+	margin: auto 20px ;
+}
+
+/*25*/
+.margin-25{
+	margin: 25px;
+}
+.margin-25-left{
+	margin-left: 25px;
+}
+.margin-25-right{
+	margin-right: 25px;
+}
+.margin-25-top{
+	margin-top: 25px;
+}
+.margin-25-button{
+	margin-bottom: 25px;
+}
+.margin-25-you{
+	margin: auto 25px ;
+}
+/*30*/
+.margin-30{
+	margin: 30px;
+}
+.margin-30-left{
+	margin-left: 30px;
+}
+.margin-30-right{
+	margin-right: 30px;
+}
+.margin-30-top{
+	margin-top: 30px;
+}
+.margin-30-button{
+	margin-bottom: 30px;
+}
+.margin-30-you{
+	margin:  auto 30px;
+}
+
+/*内边距*/
+
+/*5px*/
+.padding-5{
+	padding: 5px;
+}
+.padding-5-left{
+	padding-left: 5px;
+}
+.padding-5-right{
+	padding-right: 5px;
+}
+.padding-5-top{
+	padding-top: 5px;
+}
+.padding-5-button{
+	padding-bottom: 5px;
+}
+
+/*5px*/
+.padding-25{
+	padding: 25px;
+}
+.padding-25-left{
+	padding-left: 25px;
+}
+.padding-25-right{
+	padding-right: 25px;
+}
+.padding-25-top{
+	padding-top: 25px;
+}
+.padding-25-button{
+	padding-bottom: 25px;
+}
+
+/*5px*/
+.padding-30{
+	padding: 30px;
+}
+.padding-30-left{
+	padding-left: 30px;
+}
+.padding-30-right{
+	padding-right: 30px;
+}
+.padding-30-top{
+	padding-top: 30px;
+}
+.padding-30-button{
+	padding-bottom: 30px;
+}
+
+/*10px*/
+.padding-10{
+	padding: 10px;
+}
+.padding-10-left{
+	padding-left: 10px;
+}
+.padding-10-right{
+	padding-right: 10px;
+}
+.padding-10-top{
+	padding-top: 10px;
+}
+.padding-10-button{
+	padding-bottom: 10px;
+}
+
+/*15px*/
+.padding-15{
+	padding: 15px;
+}
+.padding-15-left{
+	padding-left: 15px;
+}
+.padding-15-right{
+	padding-right: 15px;
+}
+.padding-15-top{
+	padding-top: 15px;
+}
+.padding-15-button{
+	padding-bottom: 15px;
+}
+
+/*20px*/
+.padding-20{
+	padding: 20px;
+}
+.padding-20-left{
+	padding-left:20px;
+}
+.padding-20-right{
+	padding-right: 20px;
+}
+.padding-20-top{
+	padding-top: 20px;
+}
+.padding-20-button{
+	padding-bottom:20px;
+}
+
+/*超出隐藏*/
+.overflow-1{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-inline-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+.overflow-2{
+	overflow: hidden;
+	/*作为弹性伸缩盒子模型显示*/
+	text-overflow: ellipsis;
+	/*设置伸缩盒子的子元素排列方式 从上到下垂直排列*/
+	-webkit-box-orient: vertical;
+	/*显示行*/
+	-webkit-line-clamp: 1;
+	
+}
+/*超出文本的隐藏*/
+.text-ellipsis{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	/*不允许换行*/
+	white-space: nowrap;
+}
+.overflow{
+	overflow: hidden;
+	
+}
+/*删格线*/
+.line-throu{
+	text-decoration: line-through;
+}
+/* 按钮 */
+.button{
+	display: inline-block;
+	background: #f2f2f2;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	padding: 5px 10px;
+}
+.button.button-main, .button-mian-hover:hover{
+	background: #FF2D52;
+	color: #FFF;
+	border: none;
+	cursor: pointer;
+}
+.buttons{
+	display: inline-block;
+	background: #f2f2f2;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+.buttonmian{
+	display: inline-block;
+	background: #FF2D52;
+	color: #FFFFFF;
+	border-radius: 3px;
+	padding: 5px 10px;
+}
+.buttonmian:hover{
+	background: #ec193e;
+}
+
+

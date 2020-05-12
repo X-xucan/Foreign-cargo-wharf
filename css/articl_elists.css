@@ -1,0 +1,59 @@
+.articl-elists-centent{
+	
+	width: 959px;
+	border: 1px solid #E2E2E2;
+}
+.articl-elists-tile{
+	border-bottom: 1px dashed #E2E2E2;
+	padding-bottom: 25px;
+}
+.articl-elists-list{
+	padding: 20px 0 ;
+}
+.articl-elists-list img{
+	width: 200px;
+	height: 150px;
+}
+.article-cent{
+	width: 670px;
+	line-height: 22px;
+}
+.articl-elists-li{
+	padding: 25px 30px;
+	border-bottom: 1px solid #E2E2E2;
+}
+.articl-elists-li:last-child{
+	border-bottom: 0;
+}
+.article-cent a:hover{
+	color: #FF2D52;
+}
+.article-list{
+	width: 220px;
+	border: 1px solid #E2E2E2;
+}
+.hot-article{
+	padding: 13px 19px;
+	background: #fff9f5;
+	border-bottom: 1px solid #E2E2E2;
+}
+.article-button{
+	margin-left: 678px;
+}
+/* 文章详情*/
+.articl_elists-lits{
+	padding: 40px 156px;
+	text-align: center;
+}
+.articl_elists-lits img{
+	width: 640px;
+	height: 400px;
+	margin-top: 38px;
+}
+.articl_elists-content{
+	padding: 37px 15px;
+	line-height: 22px;
+}
+.articl_elists-text{
+	margin-top: 38px;
+}

@@ -1,0 +1,39 @@
+.inp{
+	display: inline-block;
+	width: 220px;
+	height: 50px;
+	border-top: 1px solid #E2E2E2;
+	border-bottom: 1px solid #e2e2e2;
+	font-size: 18px;
+	font-weight: bolder;
+	padding: 15px 23px;
+}
+.ull li{
+	padding: 20px;
+	font-size: 14px;
+	width: 220px;
+	cursor: pointer;
+	display: none;
+}
+.line-heiht{
+	line-height: 24px;
+}
+.ull li:hover{
+	color: #FF2D52;
+}
+.shopping-guide-tale{
+	width: 220px;
+	border: 1px solid #e2e2e2;
+}
+.shopping-guide-conten{
+	width: 960px;
+	border: 1px solid #e2e2e2;
+	padding: 19px;
+}
+
+
+.guide-conten-table{
+	width: 918px;
+	border-bottom: 1px dashed #E2E2E2;
+	line-height: 26px;
+}

@@ -1,0 +1,195 @@
+.mycar{
+	display: inline-block;
+	line-height: 18px;
+	border-bottom: 2px solid #FF2D52;
+	width: 90px;
+	height: 57px;
+	padding-top: 20px;
+}
+.my-button-border{
+	width: 100%;
+	border-bottom: 1px solid #E2E2E2;
+}
+.option{
+	width: 100%;
+	height: 40px;
+	border: 1px solid #E2E2E2;
+	background: #fff9f5;
+	line-height: 40px;
+	padding: 0px 15px;
+}
+.shangping{
+	margin-left: 175px;
+}
+.cent{
+
+	margin-left:  116px;
+	
+}
+.cents{
+	margin-right: 83px;
+}
+.store{
+	display: inline-block;
+	width: 100%;
+	line-height: 40px;
+	padding: 0px 15px;
+}
+.pailie{
+	width: 100%;
+	height: 120px;
+	border-bottom: 1px solid #E2E2E2;
+	background: #FFF9F5;
+	padding: 20px 15px;
+}
+.ull{
+	width: 100%;
+	border: 1px solid #E2E2E2;
+}
+.pailies{
+	/*margin-top: 40px;*/
+	border-top: 1px solid #E2E2E2;
+}
+.favorable.dle{
+	text-align: center;
+	width: 100%;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -20px;
+}
+.text-name{
+	width: 179px;
+	line-height: 20px;
+}
+.Dotted{
+	width: 159px;
+	height: 82px;
+	border: 1px dashed #E2E2E2;
+	padding: 12px 11px;
+	position: relative;
+}
+.Dotted:hover{
+	border: 1px dashed #FF2D52;
+}
+.Dotted:hover .alones{
+	
+	display: block;
+}
+
+.Dotted p {
+	line-height: 16px;
+}
+.alone{
+	width: 20px;
+	height: 20px;
+	background: url(../img/修改.png) no-repeat #E2E2E2 center;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.alones{
+	width: 32px;
+	height: 20px;
+	background: #FF2D52;
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: none;
+	color: #FFFFFF;
+	text-align: center;
+}
+.group{
+	width: 100px;
+	margin-left: 101px;
+	display: block;
+	line-height: 23px;
+	text-align: center;
+}
+.group a{
+	display: inline-block;
+	width: 45px;
+	height: 20px;
+	border: 1px solid #FF2D52;
+	text-align: center;
+	line-height: 18px;
+	border-radius: 3px;
+}
+.amount{
+	width:150px;
+	padding-left: 33px;
+}
+
+.amount input{
+	width: 58px;
+	height: 30px;
+	text-align: center;
+}
+.amount a{
+	height: 30px;
+	padding-top: 7.5px;
+}
+.money{
+	width: 60px;
+	margin-left: 56px;
+}
+.add{
+	width: 120px;
+	margin-left: 20px;
+}
+.operation{
+	width: 120px;
+	margin-left: 10px;
+	line-height: 24px;
+}
+.favorable{
+	text-align: right;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+}
+.settle{
+	width: 100%;
+	height: 67px;
+	border: 1px solid #e2e2e2;
+	background: #f7f7f7;
+	padding: 15px 15px;
+	position: relative;
+}
+.close{
+	display: inline-block;
+	width: 158px;
+	height: 67px;
+	background: #FF2D52;
+	color: #FFFFFF;
+	text-align: center;
+	position: absolute;
+	top: -1px;
+	right: 0;
+	line-height: 64px;
+}
+.total{
+	width: 420px;
+	margin-left: 480px;
+}
+.guess{
+	width: 100%;
+	height: 320px;
+	border: 1px solid #E2E2E2;
+	
+}
+.guess-tatle{
+	height: 40px;
+	border-bottom: 1px solid #E2E2E2;
+	background: #FFF9F5;
+	padding: 10px 16px;
+}
+.guess-love{
+	
+	width: 180px;
+	height: 250px;
+	margin: 20px 9px;
+}
+.guess-love-text{
+	display: inline-block;
+	line-height: 20px;
+}

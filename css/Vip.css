@@ -1,0 +1,218 @@
+.Vip-contenr{
+	border: 1px solid #E2E2E2;
+}
+
+.Vip-member-center{
+	width: 230px;
+	height: 645px;
+	border-right: 1px solid #E2E2E2;
+}
+.vip-tiele{
+	background: #fff9f5;
+	height: 60px;
+	border-top: 1px solid #E2E2E2;
+	border-left: 1px solid #E2E2E2;
+	border-bottom: 1px solid #E2E2E2;
+	padding: 18px 16px;
+}
+
+.vip-list{
+	width: 198px;
+	border-bottom: 1px solid #E2E2E2;
+	margin: 14px 15px;
+	line-height: 27px;
+	cursor: pointer;
+}
+/*.vip-list li:hover{
+	color: #FF2D52;
+}*/
+.vip-list-conten{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	color: #FFFFFF;
+	background: #FF2D52;
+	text-align: center;
+	line-height: 16px;
+	margin-top: 5px;
+}
+.vip-list-1{
+	width: 198px;
+	margin: 14px 15px;
+	line-height: 27px;
+}
+/* 会员中心 */
+.Registered-users{
+	width: 950px;
+}
+
+.Registered-users-tle{
+	width: 930px;
+	height: 160px;
+	background: #fff9f5;
+	border: 1px solid #E2E2E2;
+	padding: 18px 16px;
+	
+}
+.Registered-touxiang{
+	width: 120px;
+	height: 120px;
+	border-radius:50%;
+	overflow: hidden;
+}
+.Registered-touxiang img{
+	width: 120px;
+	height: 120px;
+}
+.registered-my{
+	margin-top: 17px;
+}
+.icon-approve{
+	color: #FF2D52;
+}
+.registered-my-bo{
+	text-align: center;
+}
+.registered-my-ing{
+	padding-left: 60px;
+	padding-top: -90px;
+}
+.registered-my-heigt{
+	line-height: 26px;
+}
+
+/*200 455*/
+.more{
+	width: 455px;
+	height: 200px;
+	border: 1px solid #E2E2E2;
+}
+.more-talet{
+	height: 40px;
+	background: #fff9f5;
+	padding: 0 15px;
+	border-bottom: 1px solid #E2E2E2;
+}
+.huadong{
+	width: 355px;
+	height: 127px;
+	margin-left: 8px;
+	color: #666666;
+}
+.more-list{
+	width: 100%;
+	padding: 15px 10px;
+}
+.button-top{
+	margin-top: 40px;
+}
+.huadong img{
+	width: 105px;
+	height: 105px;
+}
+.huadong-list{
+	margin-top: -30px;
+}
+/* 我的实名制 */
+.my-vip-name{
+	width: 968px;
+	height: 670px;
+	padding: 33px 20px;
+	border-left: 1px solid #e2e2e2;
+}
+
+.my-name-tatle{
+	width: 928px;
+	margin-top: -10px;
+	border-bottom: 1px solid #e2e2e2;
+}
+.name-tatle{
+	width: 96px;
+	height: 37px;
+	border-bottom: 2px solid #FF2D52;
+}
+.my-vip-content{
+	width: 928px;
+	border: 1px solid #E2E2E2;
+	background: #fff9f5;
+	padding: 22px 20px;
+}
+.vip-content-info input{
+	width: 298px;
+	height: 35px;
+}
+.Id-card-dation{
+	width: 200px;
+	height: 118px;
+	background: #fff9f5;
+	border: 1px solid #E2E2E2;
+	padding: 50px 67px ;
+}
+.sample{
+	width: 63px;
+	height: 64px;
+	text-align: center;
+	margin-left: 158px;
+}
+.sample img{
+	width: 63px;
+	height: 40px;
+}
+.Id-card-text{
+	margin-left: 94px;
+	color: #666666;
+}
+.Id-card-button a{
+	display: inline-block;
+	width: 96px;
+	height: 38px;
+	line-height: 30px;
+	text-align: center;
+}
+/*我的优惠劵*/
+.my-vip-youhui{
+	width: 968px;
+	height: 670px;
+	padding: 33px 20px;
+	border-left: 1px solid #e2e2e2;
+}
+.tab-title{
+	display: inline-block;
+	height: 39px;
+	line-height: 38px;
+	padding: 0 25px;
+	cursor: pointer;
+}
+.tab-title.on{
+	background: #FFFfff;
+	color: #FF2D52;
+}
+.name-tatle-list{
+	border: 1px solid #E2E2E2;
+	
+}
+.name-tatle-tlate{
+	background: #fff9f5;
+}
+.youhui{
+	display: none;
+	padding: 20px;
+}
+.youhui.on{
+	display: block;
+}
+.volume.volume-b{
+	background: #f7f7f7;
+	color: #666666;
+}
+.volume-button a.The_price{
+	background: #aaaaaa;
+	color: #ffffff;
+}
+.autonym-list.on{
+	display: block;
+}
+.autonym-list{
+	display: none;
+}
+
